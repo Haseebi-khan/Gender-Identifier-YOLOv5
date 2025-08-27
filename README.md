@@ -2,7 +2,10 @@
 
 # Gender Identifier YOLOv5
  Identify if someone is a male or female based off of their face.
-  
+
+## DEMO
+![DEMO](GIF.gif)  
+
 ## Model  
 Trained with the YOLOv5 computer vision library. Has over 90% accuracy(see confusion matrix below).  
 ![Confusion Matrix](confusionMatrix.png)  
