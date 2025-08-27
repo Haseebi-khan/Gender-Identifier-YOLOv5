@@ -3,8 +3,8 @@
 # Gender Identifier YOLOv5
  Identify if someone is a male or female based off of their face.
 
-## DEMO
-![DEMO](GIF.gif)  
+## Demo
+![DEMO](video.gif)  
 
 ## Model  
 Trained with the YOLOv5 computer vision library. Has over 90% accuracy(see confusion matrix below).  
@@ -17,6 +17,3 @@ Dataset can be found here: https://universe.roboflow.com/generalstuff/women-men/
 ## Webcam Integration
 I followed a tutorial to add webcam integration with Flask. I added the YOLOv5 integration myself.  
 Webcam Integration Tutorial: https://blog.miguelgrinberg.com/post/video-streaming-with-flask
-
-## Demo
-The demonstration video can be found here: *Coming Soon*  
